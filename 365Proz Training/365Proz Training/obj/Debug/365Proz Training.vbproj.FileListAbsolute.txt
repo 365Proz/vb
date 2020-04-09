@@ -1,0 +1,11 @@
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\bin\Debug\365Proz Training.dll
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\bin\Debug\365Proz Training.pdb
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\bin\Debug\365Proz Training.xml
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.vbprojAssemblyReference.cache
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\_365Proz_Training.Resources.resources
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.vbproj.GenerateResource.cache
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.vbproj.CoreCompileInputs.cache
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.dll
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.xml
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\365Proz Training.pdb
+C:\Users\psharma342\source\repos\365Proz Training\365Proz Training\obj\Debug\_365Proz_Training.UserControl1.resources
