@@ -1,0 +1,12 @@
+C:\Users\psharma342\source\repos\Number Series\Number Series\bin\Debug\Number Series.exe.config
+C:\Users\psharma342\source\repos\Number Series\Number Series\bin\Debug\Number Series.exe
+C:\Users\psharma342\source\repos\Number Series\Number Series\bin\Debug\Number Series.pdb
+C:\Users\psharma342\source\repos\Number Series\Number Series\bin\Debug\Number Series.xml
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.vbprojAssemblyReference.cache
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number_Series.Form1.resources
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number_Series.Resources.resources
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.vbproj.GenerateResource.cache
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.vbproj.CoreCompileInputs.cache
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.exe
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.xml
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.pdb
