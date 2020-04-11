@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Typing Speed Tester")>
+<Assembly: AssemblyTitle("Making Stopwatch")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Typing Speed Tester")>
+<Assembly: AssemblyProduct("Making Stopwatch")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("4a3edbd4-cc6d-403d-a76f-158d01268123")>
+<Assembly: Guid("29ebf6d1-3eab-4c3f-9e5e-a2876026a250")>
 
 ' Version information for an assembly consists of the following four values:
 '

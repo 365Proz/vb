@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1493AA18-1E68-4C45-8F8C-BD399FA7DAEC}</ProjectGuid>
+    <ProjectGuid>{D54CEF89-395A-4A86-8040-FC3EEE1028D7}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>Typing_Speed_Tester.My.MyApplication</StartupObject>
-    <RootNamespace>Typing_Speed_Tester</RootNamespace>
-    <AssemblyName>Typing Speed Tester</AssemblyName>
+    <StartupObject>Making_Stopwatch.My.MyApplication</StartupObject>
+    <RootNamespace>Making_Stopwatch</RootNamespace>
+    <AssemblyName>Making Stopwatch</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>WindowsForms</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Typing Speed Tester.xml</DocumentationFile>
+    <DocumentationFile>Making Stopwatch.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Typing Speed Tester.xml</DocumentationFile>
+    <DocumentationFile>Making Stopwatch.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -97,6 +97,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
