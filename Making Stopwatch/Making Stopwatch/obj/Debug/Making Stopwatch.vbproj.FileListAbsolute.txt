@@ -2,7 +2,6 @@ C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\bin\Debug\Mak
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\bin\Debug\Making Stopwatch.exe
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\bin\Debug\Making Stopwatch.pdb
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\bin\Debug\Making Stopwatch.xml
-C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\obj\Debug\Making Stopwatch.vbprojAssemblyReference.cache
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\obj\Debug\Making_Stopwatch.Form1.resources
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\obj\Debug\Making_Stopwatch.Resources.resources
 C:\Users\psharma342\source\repos\Making Stopwatch\Making Stopwatch\obj\Debug\Making Stopwatch.vbproj.GenerateResource.cache

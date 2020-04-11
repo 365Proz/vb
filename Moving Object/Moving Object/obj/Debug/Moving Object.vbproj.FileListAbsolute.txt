@@ -2,7 +2,6 @@ C:\Users\psharma342\source\repos\Moving Object\Moving Object\bin\Debug\Moving Ob
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\bin\Debug\Moving Object.exe
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\bin\Debug\Moving Object.pdb
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\bin\Debug\Moving Object.xml
-C:\Users\psharma342\source\repos\Moving Object\Moving Object\obj\Debug\Moving Object.vbprojAssemblyReference.cache
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\obj\Debug\Moving_Object.Form1.resources
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\obj\Debug\Moving_Object.Resources.resources
 C:\Users\psharma342\source\repos\Moving Object\Moving Object\obj\Debug\Moving Object.vbproj.GenerateResource.cache

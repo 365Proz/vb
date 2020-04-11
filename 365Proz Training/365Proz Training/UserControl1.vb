@@ -1,4 +1,7 @@
-﻿Public Class UserControl1
+﻿''----------------------------------------365PROZ-----------------------------------------------------
+''SUBSCRIBE to 365Proz: https://www.youtube.com/channel/UCFmrn9A48KM7p74nnsJlSPA?sub_confirmation=1
+''----------------------------------------------------------------------------------------------------
+Public Class UserControl1
     Protected Overrides Sub Finalize()
         MyBase.Finalize()
     End Sub

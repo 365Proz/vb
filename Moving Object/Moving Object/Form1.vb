@@ -1,5 +1,7 @@
-﻿Public Class Form1
-
+﻿''----------------------------------------365PROZ-----------------------------------------------------
+''SUBSCRIBE to 365Proz: https://www.youtube.com/channel/UCFmrn9A48KM7p74nnsJlSPA?sub_confirmation=1
+''----------------------------------------------------------------------------------------------------
+Public Class Form1
     Private Sub Form1_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
         Select Case e.KeyValue
             Case Keys.Right

@@ -1,4 +1,7 @@
-﻿Public Class Form1
+﻿''----------------------------------------365PROZ-----------------------------------------------------
+''SUBSCRIBE to 365Proz: https://www.youtube.com/channel/UCFmrn9A48KM7p74nnsJlSPA?sub_confirmation=1
+''----------------------------------------------------------------------------------------------------
+Public Class Form1
     Dim moveRight As Boolean
 
     Private Sub Form1_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
