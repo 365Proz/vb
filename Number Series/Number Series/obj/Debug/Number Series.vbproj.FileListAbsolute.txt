@@ -9,3 +9,4 @@ C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Se
 C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.exe
 C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.xml
 C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.pdb
+C:\Users\psharma342\source\repos\Number Series\Number Series\obj\Debug\Number Series.vbprojAssemblyReference.cache
