@@ -1,4 +1,7 @@
-﻿Public Class Form1
+﻿''----------------------------------------365PROZ-----------------------------------------------------
+''SUBSCRIBE to 365Proz: https://www.youtube.com/channel/UCFmrn9A48KM7p74nnsJlSPA?sub_confirmation=1
+''----------------------------------------------------------------------------------------------------
+Public Class Form1
     Private Function fnWordCounter(ByVal Text As String) As Integer
         Dim letter As Char
         ''Dim tempString As String = ""
