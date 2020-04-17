@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.Reading_Data_From_Text_File.Form1
+            Me.MainForm = Global.Reading_Data_From_Text_File.readLabel
         End Sub
     End Class
 End Namespace

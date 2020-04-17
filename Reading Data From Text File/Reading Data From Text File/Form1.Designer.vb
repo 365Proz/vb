@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class readLabel
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -22,17 +22,42 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Me.readFromFileButton = New System.Windows.Forms.Button()
+        Me.Label1 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'Form1
+        'readFromFileButton
+        '
+        Me.readFromFileButton.Location = New System.Drawing.Point(12, 12)
+        Me.readFromFileButton.Name = "readFromFileButton"
+        Me.readFromFileButton.Size = New System.Drawing.Size(96, 23)
+        Me.readFromFileButton.TabIndex = 0
+        Me.readFromFileButton.Text = "Read From File"
+        Me.readFromFileButton.UseVisualStyleBackColor = True
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Location = New System.Drawing.Point(162, 12)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(87, 13)
+        Me.Label1.TabIndex = 1
+        Me.Label1.Text = "<Read from file.>"
+        '
+        'readLabel
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Name = "Form1"
+        Me.ClientSize = New System.Drawing.Size(415, 173)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.readFromFileButton)
+        Me.Name = "readLabel"
         Me.Text = "Text File Manager"
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
 
+    Friend WithEvents readFromFileButton As Button
+    Friend WithEvents Label1 As Label
 End Class
