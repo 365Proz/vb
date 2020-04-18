@@ -23,7 +23,9 @@ Partial Class readLabel
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.readFromFileButton = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.TextBox1 = New System.Windows.Forms.TextBox()
+        Me.writeToFileButton = New System.Windows.Forms.Button()
+        Me.clearButton = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'readFromFileButton
@@ -35,21 +37,40 @@ Partial Class readLabel
         Me.readFromFileButton.Text = "Read From File"
         Me.readFromFileButton.UseVisualStyleBackColor = True
         '
-        'Label1
+        'TextBox1
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(162, 12)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(87, 13)
-        Me.Label1.TabIndex = 1
-        Me.Label1.Text = "<Read from file.>"
+        Me.TextBox1.Location = New System.Drawing.Point(165, 12)
+        Me.TextBox1.Multiline = True
+        Me.TextBox1.Name = "TextBox1"
+        Me.TextBox1.Size = New System.Drawing.Size(379, 462)
+        Me.TextBox1.TabIndex = 1
+        '
+        'writeToFileButton
+        '
+        Me.writeToFileButton.Location = New System.Drawing.Point(12, 42)
+        Me.writeToFileButton.Name = "writeToFileButton"
+        Me.writeToFileButton.Size = New System.Drawing.Size(95, 23)
+        Me.writeToFileButton.TabIndex = 2
+        Me.writeToFileButton.Text = "Write To File"
+        Me.writeToFileButton.UseVisualStyleBackColor = True
+        '
+        'clearButton
+        '
+        Me.clearButton.Location = New System.Drawing.Point(13, 71)
+        Me.clearButton.Name = "clearButton"
+        Me.clearButton.Size = New System.Drawing.Size(95, 23)
+        Me.clearButton.TabIndex = 3
+        Me.clearButton.Text = "Clear"
+        Me.clearButton.UseVisualStyleBackColor = True
         '
         'readLabel
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(415, 173)
-        Me.Controls.Add(Me.Label1)
+        Me.ClientSize = New System.Drawing.Size(556, 495)
+        Me.Controls.Add(Me.clearButton)
+        Me.Controls.Add(Me.writeToFileButton)
+        Me.Controls.Add(Me.TextBox1)
         Me.Controls.Add(Me.readFromFileButton)
         Me.Name = "readLabel"
         Me.Text = "Text File Manager"
@@ -59,5 +80,7 @@ Partial Class readLabel
     End Sub
 
     Friend WithEvents readFromFileButton As Button
-    Friend WithEvents Label1 As Label
+    Friend WithEvents TextBox1 As TextBox
+    Friend WithEvents writeToFileButton As Button
+    Friend WithEvents clearButton As Button
 End Class

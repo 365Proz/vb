@@ -12,8 +12,17 @@ Public Class readLabel
             tempS += tempL + vbCrLf
         Loop
         FileClose(fileNum)
-        Label1.Text = tempS
+        TextBox1.Text = tempS
     End Sub
 
+    Private Sub clearButton_Click(sender As Object, e As EventArgs) Handles clearButton.Click
+        TextBox1.Clear()
+    End Sub
 
+    Private Sub writeToFileButton_Click(sender As Object, e As EventArgs) Handles writeToFileButton.Click
+        Dim fileNum As Integer = FreeFile()
+        FileOpen(fileNum, "365Proz.txt", OpenMode.Output)
+        PrintLine(fileNum, TextBox1.Text)
+        FileClose(fileNum)
+    End Sub
 End Class
