@@ -1,0 +1,11 @@
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\bin\Debug\Text Manager.exe.config
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\bin\Debug\Text Manager.exe
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\bin\Debug\Text Manager.pdb
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\bin\Debug\Text Manager.xml
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text_Manager.textManagementForm.resources
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text_Manager.Resources.resources
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text Manager.vbproj.GenerateResource.cache
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text Manager.vbproj.CoreCompileInputs.cache
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text Manager.exe
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text Manager.xml
+C:\Users\psharma342\source\repos\Text Manager\Text Manager\obj\Debug\Text Manager.pdb
